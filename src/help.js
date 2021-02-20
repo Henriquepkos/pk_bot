@@ -1,9 +1,13 @@
 const help = (prefix) => {
-	return `         *HENRIQUE O BRABO 🔥*
+	return `          *HENRIQUE O BRABO 🔥*
 
-     *PK BOT NA ÁREA* 😈
+             *PK BOT NA ÁREA* 😈
 
-CANAL DO DONO: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
+*PK BOT AINDA ESTA EM DESENVOLVIMENTO!*
+
+
+
+CANAL DO CRIADOR DISSO TUDO: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
 
 
    [𝑨𝑳𝑮𝑼𝑵𝑺 𝑪𝑶𝑴𝑨𝑵𝑫𝑶𝑺 𝑵𝑨̃𝑶 𝑬𝑺𝑻𝑨̃𝑶 𝑭𝑼𝑵𝑪𝑰𝑶𝑵𝑨𝑵𝑫𝑶, 𝑺𝑬 𝑨𝑪𝑯𝑨𝑹 𝑹𝑼𝑰𝑴 𝑬́ 𝑺𝑰𝑴𝑷𝑳𝑬𝑺 𝑷𝑨𝑹𝑨 𝑫𝑬 𝑼𝑺𝑨𝑹, 𝑮𝑹𝑨𝑻𝑶!]
@@ -16,7 +20,8 @@ CANAL DO DONO: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
 
 
  
-         【 $INÚTEIS* 】 :
+         【 *INÚTEIS* 】 :
+
 
   ➡ ${prefix}blocklist
      【LISTA DE BLOCK】
