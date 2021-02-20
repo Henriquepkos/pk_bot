@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `          *HENRIQUE O BRABO 🔥*
 
-             *PK BOT NA ÁREA* 😈
+             *PK BOT NA ÁREA*😈
 
 *PK BOT AINDA ESTA EM DESENVOLVIMENTO!*
 
